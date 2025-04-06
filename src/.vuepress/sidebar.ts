@@ -17,6 +17,7 @@ export default sidebar({
         "vmware-usage",
         "wsl",
         "conda",
+        "markdown-converter",
         "spyder-usage",
       ],
     },
