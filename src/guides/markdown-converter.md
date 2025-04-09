@@ -21,7 +21,7 @@ order: 7
 - 然而，直接鼠标选中复制时，可能会丢失部分格式或导致排版混乱。
 - 如果点击对话末尾的复制按钮，得到的内容是 Markdown 源码，需要额外处理以满足特定的格式需求。
 - 本文将介绍如何将 Markdown 文件直接转换为符合需求的 pdf、word 等格式文档，也会补充其他的实用工具和技巧。
-- 有关 Markdown 语法的内容，复旦大学开放原子开源社团 FDUCSLG 的[ COMP101 ](https://comp101.fducslg.com/tools/markdown1)教程已有充分的介绍。不必担心，即使你从未学习过使用 Markdown，也能通过本文轻松上手。
+- 有关 Markdown 语法的内容，复旦大学开放原子开源社团 FDUCSLG 的 [COMP101](https://comp101.fducslg.com/tools/markdown1) 教程已有充分的介绍。不必担心，即使你从未学习过使用 Markdown，也能通过本文轻松上手。
 
 ## 使用工具
 
